@@ -1,6 +1,5 @@
 import 'package:country_codes/country_codes.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:intership_weather_app/controller/get_weather.dart';
 import 'package:intership_weather_app/model/weather_model.dart';
 import 'package:intership_weather_app/view/mainPage.dart';
