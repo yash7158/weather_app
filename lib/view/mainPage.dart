@@ -32,6 +32,7 @@ class _mainPageState extends State<mainPage> {
       child: Stack(
         children: [
           Scaffold(
+            resizeToAvoidBottomInset: false,
             backgroundColor: Color(0xff4278F2),
             body: SafeArea(
               child: Padding(
