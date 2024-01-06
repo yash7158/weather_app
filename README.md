@@ -11,3 +11,5 @@ This a weather app
 5. now you your ready to run the app
 
 
+![Simulator Screenshot - iPhone 12 mini - 2024-01-06 at 16 59 46](https://github.com/yash7158/weather_app/assets/91484841/3c783fb0-1c94-407f-b789-14922da2c793)
+
