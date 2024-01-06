@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+// all the weather data
 class weatherData {
   String city = "_";
   String country = "_";

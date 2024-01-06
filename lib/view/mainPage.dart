@@ -17,6 +17,7 @@ class mainPage extends StatefulWidget {
 class _mainPageState extends State<mainPage> {
   @override
   Widget build(BuildContext context) {
+    //update the data
     Future<void> update(String city) async {
       widget.isloading = true;
       setState(() {

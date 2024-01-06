@@ -1,3 +1,6 @@
+
+
+// convert timestamp to useable string
 String convertTimestampToString(int timestamp) {
   DateTime dateTime = DateTime.fromMillisecondsSinceEpoch(timestamp * 1000, isUtc: true);
   return "${_dayName(dateTime.weekday)}, ${dateTime.day.toString().padLeft(2, '0')} ${_monthName(dateTime.month)}";

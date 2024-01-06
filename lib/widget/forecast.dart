@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-
+//forecast widget
 class forecast extends StatelessWidget {
   forecast(this.date,this.icon,this.temp);
   late String date;

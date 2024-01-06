@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
 
 
-
+//laoding page
 class loading extends StatelessWidget {
   const loading({super.key});
 
