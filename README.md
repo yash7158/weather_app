@@ -1,16 +1,13 @@
-# intership_weather_app
+# weather_app
 
-A new Flutter project.
+This a weather app
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Go to https://openweathermap.org/ and create a account
+2. verify email and take the api key (Note: it might take 1 hr to activate api key)
+3. once you get the api key then go to main.dart and paste it in the apikey variable
+4. now get all the dependencies
+5. now you your ready to run the app
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
