@@ -3,7 +3,6 @@ import 'package:flutter/services.dart';
 import 'package:intership_weather_app/controller/get_weather.dart';
 import 'package:intership_weather_app/model/weather_model.dart';
 import 'package:intership_weather_app/view/loadingPage.dart';
-import 'package:intership_weather_app/widget/forecast.dart';
 import 'package:intership_weather_app/widget/searchDialog.dart';
 
 class mainPage extends StatefulWidget {
