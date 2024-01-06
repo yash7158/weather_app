@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 //forecast widget
 class forecast extends StatelessWidget {
   forecast(this.date,this.icon,this.temp);
-  late String date;
-  late Image icon;
-  late String temp;
+  final String date;
+  final Image icon;
+  final String temp;
 
   @override
   Widget build(BuildContext context) {

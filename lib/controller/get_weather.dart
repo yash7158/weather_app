@@ -8,7 +8,8 @@ import 'package:intership_weather_app/controller/weather.dart';
 import 'package:intership_weather_app/model/weather_model.dart';
 import 'package:intership_weather_app/widget/forecast.dart';
 
-const apiKey = "Your api key";
+import '../main.dart';
+
 Future<weatherData> getCurrentWeather(String city) async {
   //get data from api
   try {
